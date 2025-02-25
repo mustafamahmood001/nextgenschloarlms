@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #333333;
+}
+.active {
+  background-color: #E78A1D;
+  color: #333333;
+}
